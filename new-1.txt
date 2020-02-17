@@ -1,3 +1,6 @@
 create file new-1.txt by user and save 
 This is my heart is beba havana unana
 nama awana unana
+create file new-1.txt by user 
+test
+and save nama awana unana
