@@ -1,1 +1,3 @@
-create file new-1.txt by user and save nama awana unana
+create file new-1.txt by user 
+test
+and save nama awana unana
